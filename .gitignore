@@ -1,4 +1,5 @@
 # dependencies
 client/node_modules/
 comments/node_modules/
-posts/node_modules
+posts/node_modules/
+event-bus/node_modules/
